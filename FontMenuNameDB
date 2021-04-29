@@ -1,0 +1,76 @@
+[SourceHanMonoC-ExtraLight]
+	f=3,1,0x404,思源等寬 傳統
+	s=3,1,0x404,ExtraLight
+	l=3,1,0x404,思源等寬 傳統 ExtraLight
+	f=3,1,0x804,思源等宽 传统
+	s=3,1,0x804,ExtraLight
+	l=3,1,0x804,思源等宽 传统 ExtraLight
+	f=Source Han Mono C
+	s=ExtraLight
+	l=Source Han Mono C ExtraLight
+
+[SourceHanMonoC-Light]
+	f=3,1,0x404,思源等寬 傳統
+	s=3,1,0x404,Light
+	l=3,1,0x404,思源等寬 傳統 Light
+	f=3,1,0x804,思源等宽 传统
+	s=3,1,0x804,Light
+	l=3,1,0x804,思源等宽 传统 Light
+	f=Source Han Mono C
+	s=Light
+	l=Source Han Mono C Light
+
+[SourceHanMonoC-Normal]
+	f=3,1,0x404,思源等寬 傳統
+	s=3,1,0x404,Normal
+	l=3,1,0x404,思源等寬 傳統 Normal
+	f=3,1,0x804,思源等宽 传统
+	s=3,1,0x804,Normal
+	l=3,1,0x804,思源等宽 传统 Normal
+	f=Source Han Mono C
+	s=Normal
+	l=Source Han Mono C Normal
+
+[SourceHanMonoC-Regular]
+	f=3,1,0x404,思源等寬 傳統
+	s=3,1,0x404,Regular
+	l=3,1,0x404,思源等寬 傳統
+	f=3,1,0x804,思源等宽 传统
+	s=3,1,0x804,Regular
+	l=3,1,0x804,思源等宽 传统
+	f=Source Han Mono C
+	s=Regular
+	l=Source Han Mono C
+
+[SourceHanMonoC-Medium]
+	f=3,1,0x404,思源等寬 傳統
+	s=3,1,0x404,Medium
+	l=3,1,0x404,思源等寬 傳統 Medium
+	f=3,1,0x804,思源等宽 传统
+	s=3,1,0x804,Medium
+	l=3,1,0x804,思源等宽 传统 Medium
+	f=Source Han Mono C
+	s=Medium
+	l=Source Han Mono C Medium
+
+[SourceHanMonoC-Bold]
+	f=3,1,0x404,思源等寬 傳統
+	s=3,1,0x404,Bold
+	l=3,1,0x404,思源等寬 傳統
+	f=3,1,0x804,思源等宽 传统
+	s=3,1,0x804,Bold
+	l=3,1,0x804,思源等宽 传统
+	f=Source Han Mono C
+	s=Bold
+	l=Source Han Mono C
+
+[SourceHanMonoC-Heavy]
+	f=3,1,0x404,思源等寬 傳統
+	s=3,1,0x404,Heavy
+	l=3,1,0x404,思源等寬 傳統 Heavy
+	f=3,1,0x804,思源等宽 传统
+	s=3,1,0x804,Heavy
+	l=3,1,0x804,思源等宽 传统 Heavy
+	f=Source Han Mono C
+	s=Heavy
+	l=Source Han Mono C Heavy
